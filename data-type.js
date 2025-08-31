@@ -52,6 +52,4 @@ JavaScript doesn’t complain — it just goes with the flow. It changes the typ
 
 ---
 
-If you want, I can show you a small exercise to practice this. Or explain how this compares to "static typed" languages like TypeScript. Just say the word!
-
  */
