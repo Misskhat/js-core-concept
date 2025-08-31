@@ -1,5 +1,5 @@
 /*
-Great question, Md. Mishkat! Let’s break it down in a super simple way so it’s easy to understand — especially since you’re just starting out with JavaScript.
+Let’s break it down in a super simple way so it’s easy to understand — especially since you’re just starting out with JavaScript.
 
 ---
 
@@ -49,7 +49,6 @@ Here, we told JavaScript: “Hey, I know this variable exists, but I’m setting
 
 ---
 
-Would you like a mini coding exercise to practice this? I can guide you step-by-step!
 */
 
 let friendName1 = undefined; // this is undefine simply which is not define yet. (not  recommended)
